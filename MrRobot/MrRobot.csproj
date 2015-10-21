@@ -45,6 +45,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Controller.cs" />
+    <Compile Include="HackedModel.cs" />
     <Compile Include="MainController.cs" />
     <Compile Include="MainView.cs" />
     <Compile Include="MyModel.cs" />
